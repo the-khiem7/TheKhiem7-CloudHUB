@@ -1,0 +1,9 @@
+[submodule "FengShuiKoi"]
+	path = FengShuiKoi
+	url = https://github.com/FSK-Consultant/FengShuiKoi.aspnet
+[submodule "ClaimRequestSystem"]
+	path = ClaimRequestSystem
+	url = https://github.com/ClaimRequestSystem/ClaimRequestSystem.ASPNET
+[submodule "EzyFix"]
+	path = EzyFix
+	url = https://github.com/EzyFixApp/EzyFix.aspnet
